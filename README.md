@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hola! Soy Flor :sparkles:
+
+<p><img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="25"> Programando con Node.js</br>
+<img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="25"> Estudiante de desarrollo web en <a href="https://www.unlam.edu.ar/index.php">UNLaM</a>
+</em></p>
+
 
 <!--
 **florencialp/florencialp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
