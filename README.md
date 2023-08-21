@@ -44,10 +44,10 @@ Studying web development at <a href="https://www.unlam.edu.ar/index.php">UNLaM</
 <h3>Stats</h3>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=florencialp&show_icons=true&theme=radical">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=florenciaj&show_icons=true&theme=radical">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florencialp&langs_count=4&theme=radical" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenciaj&langs_count=4&theme=radical" />
   </a>
 </p>
 
@@ -56,9 +56,9 @@ Studying web development at <a href="https://www.unlam.edu.ar/index.php">UNLaM</
 
 <h3>Get in touch</h3>
 <p>
-  <a href="https://github.com/florencialp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-   <a href="https://gitlab.com/florencialp" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
-   <a href="https://codepen.io/florencialp" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-%2312100E.svg?&style=for-the-badge&logo=Codepen&logoColor=white" /></a> 
- <a href="https://www.linkedin.com/in/florencialp" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/florenciaj" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+   <a href="https://gitlab.com/florenciaj" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
+   <a href="https://codepen.io/florenciaj" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-%2312100E.svg?&style=for-the-badge&logo=Codepen&logoColor=white" /></a> 
+ <a href="https://www.linkedin.com/in/florenciaj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   
 </p>
